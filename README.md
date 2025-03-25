@@ -1,0 +1,2 @@
+# nvim
+a lazyneovim config 
